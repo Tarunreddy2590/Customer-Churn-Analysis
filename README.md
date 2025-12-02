@@ -66,6 +66,20 @@ How missing security/support services double churn
 Why streaming services do not improve retention
 
 Which customer persona has the highest churn probability
+
+#Outcome
+
+The final analysis delivers:
+
+A well-cleaned dataset ready for modeling
+
+Clear churn drivers supported by percentages
+
+High-quality visualizations for presentation
+
+Actionable recommendations for telecom customer retention
+
+A structured approach that mirrors real-world data analytics workflows
 ## Tools & Libraries Used
 Python
 
